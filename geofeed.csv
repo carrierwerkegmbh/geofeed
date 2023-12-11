@@ -1,1 +1,14 @@
-# prefix,country_code,Country_city,Country_Region,postal,Company_or_ISP,Org_name,Country_latitude,Country_longitude,As_number,Postal_code
+# carrierwerke GmbH GeoFeed
+# E-Mail: noc@carrierwerke.de
+#Last Update: 2023-12-11 16:15:00
+# network, iso_country code, iso_region_code, city_name, postal_code
+78.31.200.0/21,DE,,,
+87.238.184.0/21,DE,,,
+89.58.128.0/21,DE,,,
+91.212.106.0/24,DE,,,
+91.214.127.0/24,DE,,,
+185.26.200.0/22,DE,,,
+194.48.242.0/24,DE,,,
+2a02:8c0::/32,DE,,,
+2a0c:be01::/32,DE,,,
+2a13:d500::/29,DE,,,
