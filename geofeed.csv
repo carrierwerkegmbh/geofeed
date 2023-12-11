@@ -2,7 +2,7 @@
 # E-Mail: noc@carrierwerke.de
 # Last Update: 2023-12-11 16:15:00
 # network, iso_country code, iso_region_code, city_name, postal_code
-78.31.200.0/21,DE,,,
+78.31.200.0/22,DE,,,
 87.238.184.0/21,DE,,,
 89.58.128.0/21,DE,,,
 91.212.106.0/24,DE,,,
